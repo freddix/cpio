@@ -1,7 +1,7 @@
 Summary:	GNU cpio archiving program
 Name:		cpio
 Version:	2.11
-Release:	2
+Release:	3
 License:	GPL v3+
 Group:		Applications/Archiving
 Source0:	ftp://ftp.gnu.org/gnu/cpio/%{name}-%{version}.tar.bz2
